@@ -5,23 +5,26 @@
 
 - 🔭 I’m currently working on **Final Year Project**
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m final year student of **Software Engineering**
 
 - 📫 How to reach me **purnjappie@gmail.com**
 
 ---
+</p>
+<details>
+  <summary><b>Connect with me:</b></summary>
 
-### Connect with me:
 <p align="center">
 <a href="https://instagram.com/tiaan.dorflingg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiaan.dorflingg" height="35" width="45" /></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/tiaan-dorfling-1313432bb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
 
-</p>
 
+</details>
 
 ---
-## 📌 Pinned Repositories
 
+<details>
+  <summary><b>📌 Pinned Repositories</b></summary>
 <br>
 
 <a href="https://github.com/Thian0509/MnR_Finals_Team3">
@@ -63,8 +66,12 @@
 
 <br>
 <br>
+</details>
 
-## 💼 Skills
+---
+
+<details>
+  <summary><b>💼 Skills</b></summary>
 
 [![React](https://img.shields.io/badge/React-001440?style=for-the-badge&logo=react&logoColor=#61DAFB)](https://www.php.net/docs.php)
 [![FireBase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=#DD2C00)](https://www.php.net/docs.php)
@@ -87,4 +94,4 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3B75AF?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-
+</details>
