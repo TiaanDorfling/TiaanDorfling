@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tiaan</h1>
-<h3 align="center">A passionate software engineering student from South Africa</h3>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2750&pause=150&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=Hello+hello;I'm+Tiaan%2C+A+passionate;software+engineering+student+from+South+Africa" width="70%" />
+</div>
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiaandorfling&label=Profile%20views&color=0e75b6&style=flat" alt="tiaandorfling" /> </p>
 
