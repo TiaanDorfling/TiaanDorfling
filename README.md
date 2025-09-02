@@ -58,10 +58,17 @@
 
 <br>
 <br>
+</details>
 
-## &#x1f4c8; GitHub Stats
+---
+
+<details>
+  <summary><b>GitHub Stats</b></summary>
 
 <br>
+<a href="https://github.com/TiaanDorfling">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiaanDorfling&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <a href="https://github.com/TiaanDorfling">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=TiaanDorfling&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Tiaan's GitHub Stats" />
