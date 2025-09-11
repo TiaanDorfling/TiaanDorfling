@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiaandorfling&label=Profile%20views&color=0e75b6&style=flat" alt="tiaandorfling" /> </p>
 
-- 🔭 I’m currently Available for an **Internship**
+- 🔭 I’m currently an **Intern** for atWork
 
 - 🌱 I’m final year student of **Software Engineering**
 
