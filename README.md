@@ -91,4 +91,6 @@
 <details>
   <summary><b>📊 Stats</b></summary>
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiaanDorfling)
+  <br>
+  ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=TiaanDorfling&layout=compact&theme=dark)
 </details>
