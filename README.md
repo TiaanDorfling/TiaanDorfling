@@ -85,3 +85,10 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-3B75AF?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 </details>
+
+---
+
+<details>
+  <summary><b>📊 Stats</b></summary>
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiaanDorfling)
+</details>
